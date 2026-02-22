@@ -1,4 +1,4 @@
-// Question bank (20+ questions)
+// Question bank (25 questions, you can add more)
 const questions = [
   { q: "Output of: System.out.println(10+20+\"Java\");", a: "30Java" },
   { q: "Output of: System.out.println(\"Java\"+10+20);", a: "Java1020" },
